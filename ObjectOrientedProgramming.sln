@@ -3,35 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35209.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Encapsulation", "01_Encapsulation\01_Encapsulation.csproj", "{9A9AD8E2-D68E-41F5-8E8B-026F2C9A9AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Encapsulation", "01_Encapsulation\01_Encapsulation.csproj", "{9A9AD8E2-D68E-41F5-8E8B-026F2C9A9AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Record", "02_Record\02_Record.csproj", "{47A87B8C-1F87-4CC5-98B1-9B9311CC46F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Record", "02_Record\02_Record.csproj", "{47A87B8C-1F87-4CC5-98B1-9B9311CC46F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Record_1", "02_Record_1\02_Record_1.csproj", "{5C4F3BFA-D7B6-4EE0-AFE5-601E91275EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Record_1", "02_Record_1\02_Record_1.csproj", "{5C4F3BFA-D7B6-4EE0-AFE5-601E91275EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Record_2", "02_Record_2\02_Record_2.csproj", "{0D5F6AD1-E186-4575-9046-794B01922108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Record_2", "02_Record_2\02_Record_2.csproj", "{0D5F6AD1-E186-4575-9046-794B01922108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor", "03_Constructor\03_Constructor.csproj", "{F9AAAD9C-4D89-400E-B9B6-4769C96A68FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor", "03_Constructor\03_Constructor.csproj", "{F9AAAD9C-4D89-400E-B9B6-4769C96A68FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor_1", "03_Constructor_1\03_Constructor_1.csproj", "{8F91CC5A-7841-4D01-9B37-05D8D9775327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor_1", "03_Constructor_1\03_Constructor_1.csproj", "{8F91CC5A-7841-4D01-9B37-05D8D9775327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor_2", "03_Constructor_2\03_Constructor_2.csproj", "{0ACDAA49-9EB7-49F1-BA0D-9F7777EC564D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor_2", "03_Constructor_2\03_Constructor_2.csproj", "{0ACDAA49-9EB7-49F1-BA0D-9F7777EC564D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor_3", "03_Constructor_3\03_Constructor_3.csproj", "{32CABDA4-857C-46AA-84BD-AFC604FAACEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor_3", "03_Constructor_3\03_Constructor_3.csproj", "{32CABDA4-857C-46AA-84BD-AFC604FAACEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor_4", "03_Constructor_4\03_Constructor_4.csproj", "{F81BF30A-5746-47FF-ACE0-D3EA51546308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor_4", "03_Constructor_4\03_Constructor_4.csproj", "{F81BF30A-5746-47FF-ACE0-D3EA51546308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Constructor_5", "03_Constructor_5\03_Constructor_5.csproj", "{0BAFDC59-7F13-4973-884F-F01F21C71327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Constructor_5", "03_Constructor_5\03_Constructor_5.csproj", "{0BAFDC59-7F13-4973-884F-F01F21C71327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Destructor", "04_Destructor\04_Destructor.csproj", "{597BA16A-E233-458B-8074-7738EE957E09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Destructor", "04_Destructor\04_Destructor.csproj", "{597BA16A-E233-458B-8074-7738EE957E09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Destructor_1", "04_Destructor_1\04_Destructor_1.csproj", "{DE99842F-D6E4-4229-A5CB-70F39FEE6070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Destructor_1", "04_Destructor_1\04_Destructor_1.csproj", "{DE99842F-D6E4-4229-A5CB-70F39FEE6070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Deconstruct", "05_Deconstruct\05_Deconstruct.csproj", "{C4ED86E7-F38C-42F7-9A17-9B9499554B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Deconstruct", "05_Deconstruct\05_Deconstruct.csproj", "{C4ED86E7-F38C-42F7-9A17-9B9499554B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_StaticConstructor", "06_StaticConstructor\06_StaticConstructor.csproj", "{7E73629C-D16A-44D1-B3F7-FFE60C031DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_StaticConstructor", "06_StaticConstructor\06_StaticConstructor.csproj", "{7E73629C-D16A-44D1-B3F7-FFE60C031DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_StaticConstructor_1", "06_StaticConstructor_1\06_StaticConstructor_1.csproj", "{F44DF503-770B-4DA8-930C-6EFAC63D135B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_StaticConstructor_1", "06_StaticConstructor_1\06_StaticConstructor_1.csproj", "{F44DF503-770B-4DA8-930C-6EFAC63D135B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_PositionalRecord", "07_PositionalRecord\07_PositionalRecord.csproj", "{B16D9F13-0C05-42D5-9519-CC234F54EABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F44DF503-770B-4DA8-930C-6EFAC63D135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F44DF503-770B-4DA8-930C-6EFAC63D135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F44DF503-770B-4DA8-930C-6EFAC63D135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16D9F13-0C05-42D5-9519-CC234F54EABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16D9F13-0C05-42D5-9519-CC234F54EABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16D9F13-0C05-42D5-9519-CC234F54EABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16D9F13-0C05-42D5-9519-CC234F54EABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
